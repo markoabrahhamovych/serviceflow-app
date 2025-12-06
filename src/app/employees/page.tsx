@@ -1,12 +1,5 @@
-
-
-
 const EmployeePage = () => {
-  return (
-    <div>
-      Employee Page
-    </div>
-  )
-}
+  return <div>Employee Page</div>;
+};
 
 export default EmployeePage;
